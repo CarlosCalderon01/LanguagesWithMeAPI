@@ -15,3 +15,11 @@ class Tasks(models.Model):
     class Meta:
         managed = False
         db_table = 'tasks'
+
+"""
+
+- Bibliografia:
+
+https://docs.djangoproject.com/en/5.0/ref/models/fields/
+
+"""
